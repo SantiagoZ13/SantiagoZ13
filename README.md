@@ -4,18 +4,9 @@
 <h1 align="center">Hi 👋, I'm Santiago Ponce Diaz</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-I am Santiago from Colombia, a computer systems engineering student and a frontend developer with experience in different technologies.
-I really like to learn everything related to this great world of technology.
+<p>I am Santiago from Colombia, a computer systems engineering student and a frontend developer with experience in different technologies.</p>
+<p>I really like to learn everything related to this great world of technology.</p>
 
-## Skills and Experience
-- ⚡ HTML
-- ⚡ CSS
-- ⚡ JS
-- ⚡ FIGMA
-- ⚡ REACT
-- ⚡ LINUX
-- ⚡ COMMAND TERMINAL
-- ⚡ AWS
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santiagoz13&label=Profile%20views&color=0e75b6&style=flat" alt="santiagoz13" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
