@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋, Santiago Ponce Diaz
+#### Frontend Developer 
+![Frontend Developer ](https://i.pinimg.com/originals/80/18/cb/8018cb671e28e3254703ef31cef5878c.png)
 
-I'm Santiago from Colombia and I am computer systems engineering student and frontend developer who has experience in technologies such as linux, command terminal, html, css, javascript, react and figma.
+I am Santiago from Colombia, a computer systems engineering student and a frontend developer with experience in different technologies.
+I really like to learn everything related to this great world of technology.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantiagoZ13)](https://github.com/anuraghazra/github-readme-stats)
+Skills:  HTML / CSS /  JS / FIGMA / REACT / LINUX / COMMAND TERMINAL / AWS
+
+- 🔭 I’m currently working on this page. 
