@@ -1,5 +1,5 @@
-### Hi there 👋, Santiago Ponce Diaz
-#### Frontend Developer 
+## Hi there 👋, Santiago Ponce Diaz
+### Frontend Developer 
 ![Frontend Developer ](https://i.pinimg.com/originals/80/18/cb/8018cb671e28e3254703ef31cef5878c.png)
 
 I am Santiago from Colombia, a computer systems engineering student and a frontend developer with experience in different technologies.
