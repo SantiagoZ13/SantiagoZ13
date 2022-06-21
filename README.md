@@ -1,5 +1,5 @@
 
-![Frontend Developer ]([https://i.pinimg.com/originals/80/18/cb/8018cb671e28e3254703ef31cef5878c.png](https://github.com/SantiagoZ13/SantiagoZ13/blob/main/Banner.png))
+![Frontend Developer ](https://wallpaper.dog/large/20372212.jpg)
 # Hi there 👋, Santiago Ponce Diaz
 ## Frontend Developer 
 
