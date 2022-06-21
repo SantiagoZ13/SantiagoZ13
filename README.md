@@ -8,17 +8,17 @@ I am Santiago from Colombia, a computer systems engineering student and a fronte
 I really like to learn everything related to this great world of technology.
 
 ## Skills and Experience
-⚡ HTML
-⚡ CSS
-⚡ JS
-⚡ FIGMA
-⚡ REACT
-⚡ LINUX
-⚡ COMMAND TERMINAL
-⚡ AWS
+- ⚡ HTML
+- ⚡ CSS
+- ⚡ JS
+- ⚡ FIGMA
+- ⚡ REACT
+- ⚡ LINUX
+- ⚡ COMMAND TERMINAL
+- ⚡ AWS
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santiagoz13&label=Profile%20views&color=0e75b6&style=flat" alt="santiagoz13" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **My online Portfolio**
 
